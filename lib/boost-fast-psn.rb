@@ -1,0 +1,1 @@
+require 'boost-fast-psn/boost'
