@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "boost-fast-psn"
-  spec.version       = '0.0.2'
+  spec.version       = '0.0.3'
   spec.authors       = ["Steve Bell"]
   spec.email         = ["steve@happinessworks.com"]
   spec.summary       = %q{Wraps the Boost distributions library's `fast_psn` function.}

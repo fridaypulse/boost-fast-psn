@@ -1,1 +1,1 @@
-require 'boost-fast-psn/boost'
+require 'boost'
